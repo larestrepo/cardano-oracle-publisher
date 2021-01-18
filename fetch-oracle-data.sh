@@ -94,4 +94,4 @@ echo "       }"
 echo "    ],"
 echo "    \"DRAND\": $DRAND"
 echo "  }"
-echo "}"⏎
+echo "}"
